@@ -12,6 +12,10 @@ int run(int x)
     return x;
 }
 
+float run(float x)
+{
+    return x;
+}
 
 
 int main()
