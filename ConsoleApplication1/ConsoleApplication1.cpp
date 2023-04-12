@@ -2,7 +2,7 @@
 
 void run()
 {
-
+    int x = 9;
 }
 
 int run(int x)
