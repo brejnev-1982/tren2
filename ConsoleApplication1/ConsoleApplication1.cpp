@@ -1,7 +1,5 @@
 ﻿#include <iostream>
 
-
-
 void techLidOneLove()
 {
 
@@ -23,6 +21,21 @@ double& techLidOneLove(double& x)
 }
 
 oid run()
+{
+
+}
+
+int run(int x)
+{
+    return x;
+}
+
+float run(float x)
+{
+    return x;
+}
+
+void run()
 {
 
 }
