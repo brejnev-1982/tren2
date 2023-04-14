@@ -20,7 +20,7 @@ double& techLidOneLove(double& x)
     return x;
 }
 
-oid run()
+void run()
 {
 
 }
