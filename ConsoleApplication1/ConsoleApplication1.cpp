@@ -1,6 +1,9 @@
 ﻿#include <iostream>
 
-commit 1 main
+void master()
+{
+
+}
 
 void techLidOneLove()
 {
