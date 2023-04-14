@@ -5,6 +5,11 @@ void master()
 
 }
 
+void master2()
+{
+
+}
+
 void techLidOneLove()
 {
 
